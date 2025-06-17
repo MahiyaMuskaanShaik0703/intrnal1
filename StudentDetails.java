@@ -1,7 +1,7 @@
 public class StudentDetails {
     public static void main(String[] args) {
-        String name = "John Doe";
-        int roll = 101;
+        String name = "Mahiya";
+        int roll = 245122749028;
         int age = 20;
 
         System.out.println("--- Student Details ---");
